@@ -30,5 +30,5 @@ Olá, Eu sou Leandro 🖖🏼
 </div>
 
 ###
-
+![snake gif](https://github.com/Leandro-fluor/Leandro-fluor/blob/output/github-contribution-grid-snake.svg)
 ###
