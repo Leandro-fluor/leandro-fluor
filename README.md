@@ -31,6 +31,4 @@ Olá, Eu sou Leandro 🖖🏼
 
 ###
 
-<img src="https://raw.githubusercontent.com/Leandro-fluor/Leandro-fluor/output/snake.svg" alt="Snake animation" />
-
 ###
